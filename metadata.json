@@ -1,0 +1,22 @@
+{
+  "_generated": "Edited by Flo",
+  "description": "Remove power button from tray; remove power and lock items from system menu",
+  "name": "Remove power tray icon and power and lock from system menu",
+  "shell-version": [
+    "3.12",
+    "3.14",
+    "3.16",
+    "3.18",
+    "3.20",
+    "3.22",
+    "3.24",
+    "3.26",
+    "3.28",
+    "3.36",
+    "40",
+    "41",
+    "42"
+  ],
+  "uuid": "gnome-hide-power-and-lock@FLo481.github.com",
+  "version": 1
+}
