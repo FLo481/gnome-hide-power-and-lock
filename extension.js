@@ -12,7 +12,7 @@ class Extension {
     enable() {
         this._systemMenu._lockScreenItem.visible = false;
         orgIndicator.indicators.hide();
-        Menu.actor.remove_child(Main.panel.statusArea.aggregateMenu._system._sessionSubMenu);  
+        Menu.actor.remove_child(Main.panel.statusArea.aggregateMenu._system._sessionSubMenu);
     }
 
     disable() {
